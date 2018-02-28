@@ -20,8 +20,8 @@ p:first-letter {
 
 #content {
 	
-	padding:0 0px 0 10px;
-	width:510px;
+	padding:0 10px 0 10px;
+	width:500px;
 	height:300px;
 	float: left;
 	background-color: #fff;
